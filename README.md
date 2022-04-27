@@ -6,8 +6,8 @@ I'm a IT Student at Catuca, a Technical High School of Campinas - UNICAMP
 [![Blog](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Joaozinho585)
 
 <a href= "https://github.com/jaoziin04"> 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Jaoziin04&show_icons=true&theme=apprentice&include_all_commits=true&count_private=true"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jaoziin04&layout=compact&langs_count=7&theme=apprentice"/>
+<img height="150em" src="https://github-readme-stats.vercel.app/api?username=Jaoziin04&show_icons=true&theme=apprentice&include_all_commits=true&count_private=true"/>
+   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jaoziin04&layout=compact&langs_count=7&theme=apprentice"/>
   
   ## Languages
   
