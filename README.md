@@ -9,7 +9,7 @@ I'm a IT Student at Cotuca, a Technical High School of Campinas - UNICAMP
 <img height="130em" src="https://github-readme-stats.vercel.app/api?username=Jaoziin04&show_icons=true&theme=apprentice&include_all_commits=true&count_private=true"/>
    <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jaoziin04&layout=compact&langs_count=7&theme=apprentice"/>
   
-  ## Languages
+  ## Languages & Tools
   
   
    <img aling="center" alt="C#" height="50" width="50"   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
